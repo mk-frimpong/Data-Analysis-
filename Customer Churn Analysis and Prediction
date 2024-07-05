@@ -1,6 +1,0 @@
-Customer churn refers to the phenomenon where customers stop doing business with a company or stop using its services. In simple terms, it's when customers leave or "churn away" from a business, often switching to a competitor or just stopping their use of the service altogether. It's an important metric for companies because retaining existing customers is typically more cost-effective than acquiring new ones, so high churn rates can negatively impact a company's revenue and growth. - The data used in this project is a dataset obtained from Kaggle(a telco dataset).  
-The aim of this project seeks to analyze the churn rate of customers of this organization based on certain features. 
-Amongst such features include;
-  Whether or not the customer is a senior citizen.
-  Whether the customer has a partner, dependents.
-  The tenure of use of the customer etc.
